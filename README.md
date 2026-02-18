@@ -1,4 +1,4 @@
-﻿# DS Product Shipment Tracking Plugin
+# DS Product Shipment Tracking Plugin
 
 **Version:** 2.0.0  
 **Author:** joy@doctorsstudio.com  
@@ -293,8 +293,8 @@ curl -X DELETE "https://site.com/wp-json/ds-shipment/v1/orders/12345/trackings/a
 ## Support
 
 For issues or questions:
-- **Email:** joy@doctorsstudio.com
-- **Documentation:** See planning docs in `/AgentSupport/planning/`
+- **Author:** joy@doctorsstudio.com
+- **Documentation:** See this README
 
 ## License
 
